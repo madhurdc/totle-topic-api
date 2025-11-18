@@ -1,0 +1,68 @@
+[
+  { "id": 1, "name": "JavaScript Basics", "category": "Programming" },
+  { "id": 2, "name": "Advanced JavaScript Patterns", "category": "Frontend" },
+  { "id": 3, "name": "JavaScript for Backend", "category": "Backend" },
+
+  { "id": 4, "name": "REST API Fundamentals", "category": "API" },
+  { "id": 5, "name": "API Response Optimization", "category": "Backend" },
+  { "id": 6, "name": "API Security Essentials", "category": "Security" },
+
+  { "id": 7, "name": "Database Design Principles", "category": "Database" },
+  { "id": 8, "name": "Database Performance Tuning", "category": "Backend" },
+  { "id": 9, "name": "Database Backup Automation", "category": "DevOps" },
+
+  { "id": 10, "name": "Cloud Deployment Basics", "category": "Cloud" },
+  { "id": 11, "name": "Cloud Networking Concepts", "category": "DevOps" },
+  { "id": 12, "name": "Cloud Security Practices", "category": "Security" },
+
+  { "id": 13, "name": "Token-Based Security", "category": "Security" },
+  { "id": 14, "name": "Web Security Fundamentals", "category": "Web" },
+  { "id": 15, "name": "Network Security Overview", "category": "DevOps" },
+
+  { "id": 16, "name": "Node.js Basics", "category": "Backend" },
+  { "id": 17, "name": "Node.js Asynchronous Programming", "category": "Backend" },
+  { "id": 18, "name": "Node.js Performance Optimization", "category": "Backend" },
+
+  { "id": 19, "name": "React Component Lifecycle", "category": "Frontend" },
+  { "id": 20, "name": "React Hooks Deep Dive", "category": "Frontend" },
+  { "id": 21, "name": "React State Management", "category": "Frontend" },
+
+  { "id": 22, "name": "Express Routing Concepts", "category": "Backend" },
+  { "id": 23, "name": "Express Middleware Patterns", "category": "Backend" },
+  { "id": 24, "name": "Express API Development", "category": "API" },
+
+  { "id": 25, "name": "Linux Command Essentials", "category": "DevOps" },
+  { "id": 26, "name": "Linux Networking Tools", "category": "DevOps" },
+  { "id": 27, "name": "Linux Security Hardening", "category": "Security" },
+
+  { "id": 28, "name": "Microservices Architecture", "category": "Backend" },
+  { "id": 29, "name": "Microservices Security", "category": "Security" },
+  { "id": 30, "name": "Microservices Deployment", "category": "Cloud" },
+
+  { "id": 31, "name": "CI/CD Pipeline Basics", "category": "DevOps" },
+  { "id": 32, "name": "CI/CD Automation Tools", "category": "DevOps" },
+  { "id": 33, "name": "CI/CD Security Checks", "category": "Security" },
+
+  { "id": 34, "name": "Docker Container Basics", "category": "DevOps" },
+  { "id": 35, "name": "Docker Networking Concepts", "category": "DevOps" },
+  { "id": 36, "name": "Docker Security Configurations", "category": "Security" },
+
+  { "id": 37, "name": "JavaScript Debugging Techniques", "category": "Programming" },
+  { "id": 38, "name": "JavaScript DOM Manipulation", "category": "Frontend" },
+  { "id": 39, "name": "JavaScript Testing Frameworks", "category": "Backend" },
+
+  { "id": 40, "name": "API Rate Limiting Strategies", "category": "API" },
+  { "id": 41, "name": "API Gateway Overview", "category": "Cloud" },
+  { "id": 42, "name": "API Monitoring Techniques", "category": "Analytics" },
+
+  { "id": 43, "name": "Database Query Optimization", "category": "Database" },
+  { "id": 44, "name": "Database Sharding Introduction", "category": "Database" },
+  { "id": 45, "name": "Database Access Security", "category": "Security" },
+
+  { "id": 46, "name": "Cloud Cost Optimization", "category": "Cloud" },
+  { "id": 47, "name": "Cloud Resource Scaling", "category": "Cloud" },
+  { "id": 48, "name": "Cloud Monitoring Tools", "category": "Analytics" },
+
+  { "id": 49, "name": "Frontend Performance Optimization", "category": "Frontend" },
+  { "id": 50, "name": "Backend Logging Best Practices", "category": "Backend" }
+]
