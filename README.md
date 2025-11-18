@@ -42,9 +42,10 @@ totle-topic-api/
 
 ### Environment variables
 
-&nbsp;   PORT=5000
-    FILE\_PATH=./data/topics.json
-
+```env
+PORT=5000
+FILE_PATH=./data/topics.json
+```
 
 ### Run server
 
@@ -102,9 +103,26 @@ totle-topic-api/
 
 ``` json
 [
-  { "id": 1, "name": "AI Fundamentals", "category": "Technology" },
-  { "id": 2, "name": "Blockchain Basics", "category": "Technology" },
-  { "id": 3, "name": "AI in Finance", "category": "Finance" }
+  {
+      "id": 1,
+      "name": "JavaScript Basics",
+      "category": "Programming"
+  },
+  {
+      "id": 2,
+      "name": "Advanced JavaScript Patterns",
+      "category": "Frontend"
+  },
+  {
+      "id": 3,
+      "name": "JavaScript for Backend",
+      "category": "Backend"
+  },
+  {
+      "id": 37,
+      "name": "JavaScript Debugging Techniques",
+      "category": "Programming"
+  }
 ]
 ```
 
