@@ -42,7 +42,7 @@ totle-topic-api/
 
 ### Environment variables
 
-&nbsp;   PORT=5000 
+&nbsp;   PORT=5000
     FILE\_PATH=./data/topics.json
 
 
@@ -61,19 +61,31 @@ totle-topic-api/
 
 ### Example Request
 
-&nbsp;   GET /api/topics?search=ai\&sort=name
+&nbsp;   GET /api/topics?search=node\&sort=name
 
 
 ### Example Response
 
 ``` json
 {
-  "message": "File searched",
-  "searchTopics": [
-    { "id": 3, "name": "AI in Finance", "category": "Finance" },
-    { "id": 1, "name": "AI Fundamentals", "category": "Technology" },
-    { "id": 14, "name": "AI-Based Fraud Detection", "category": "Security" }
-  ]
+    "message": "File searched",
+    "searchTopics": [
+        {
+            "id": 17,
+            "name": "Node.js Asynchronous Programming",
+            "category": "Backend"
+        },
+        {
+            "id": 16,
+            "name": "Node.js Basics",
+            "category": "Backend"
+        },
+        {
+            "id": 18,
+            "name": "Node.js Performance Optimization",
+            "category": "Backend"
+        }
+    ]
 }
 ```
 
